@@ -1,0 +1,15 @@
+#Window
+WIDTH = 600
+HEIGHT = 600
+FPS = 10
+
+#Colors
+WHITE = (255,255,255)
+BLACK = (0,0,0)
+GREEN = (0,200,0)
+PINK = (255,192,203)
+
+#Others
+OFFSET = 20
+SPACING = 10
+N = 56
